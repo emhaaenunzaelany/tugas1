@@ -1,0 +1,17 @@
+<?php
+    $nilai1 = "100";
+    $niali2 = "84";
+    $niali3 = "74";
+    $nilai4 = "59";
+    $nilai5 = "49";
+
+    if($nilai1 == "84"){
+        echo "User Mendapatkan Nilai A";
+    } elseif($nilai1 == "100"){
+        echo "User Mendapatkan Nilai A";
+    }else{
+        echo "User Mendapatkan Nilai B";
+    }
+
+
+?>
